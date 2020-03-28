@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
         binding.saveLogin.setOnClickListener(v -> {
-            appUtilFw.setPrefrence("Email", "kaprajapati@epsilonium.com");
+            appUtilFw.setPrefrence("Email", "kprajapati@epsilonium.com");
             appUtilFw.setPrefrence("Password", "123456");
         });
 

@@ -13,7 +13,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Email"
-            android:text="kaprajapati@epsilonium.com"
+            android:text="kprajapati@epsilonium.com"
             android:id="@+id/email"/>
 
         <EditText

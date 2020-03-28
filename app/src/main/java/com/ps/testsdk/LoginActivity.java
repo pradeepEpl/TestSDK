@@ -14,7 +14,7 @@ public class LoginActivity extends AppCompatActivity {
 
     ActivityLoginBinding binding;
     AppUtilFw appUtilFw;
-    String EMAIL = "kaprajapati@epsilonium.com";
+    String EMAIL = "kprajapati@epsilonium.com";
     String PASSWORD = "123456";
 
     @Override
